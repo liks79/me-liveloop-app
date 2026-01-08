@@ -66,3 +66,44 @@ coverage/
 
 # TypeScript
 tsconfig.tsbuildinfo
+
+# Cache directories
+.cache/
+.turbo/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# General log files
+*.log
+logs/
+
+# Backup files
+*.backup
+*.bak
+backup/
+backups/
+
+# Deployment platforms (local config)
+.vercel/
+.netlify/
+.firebase/
+.serverless/
+
+# AstroPaper specific
+public/pagefind/
+public/pagefind.json
+
+# Editor backup files
+*~
+*.tmp
+*.temp
+
+# Package manager lock files (keep only one)
+# Uncomment if you want to ignore specific lock files
+# yarn.lock
+# pnpm-lock.yaml
+
+# Local development files
+.local/
+local/
