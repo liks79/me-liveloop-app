@@ -105,7 +105,20 @@ Education, Inc.)
 
 ---
 
-## Certifications (selected)
+## Awards
+- 2021 APJC TechSummit DNB/ISV/Startup Track Best Speaker Award.
+- 2021 Thought Leadership Winner (Q3) (Korea Solutions Architect Award winners)
+- 2021 Thought Leadership Winner (Year-) (Korea Solutions Architect Award winners)
+- 2021 Think Big Award (Q2) (Korea Solutions Architect Award winners)
+- 2020 AWS KOREA AWARD (2020 Kick-off): Training & Certification - Champion of the year o 2019 T&C APAC: Training & Certification - Person of Q3
+- 2018 AWS Korea Seoul Summit – Best CSAT Award (AWSome Day)
+- 2012 LG CNS Best Knowledge share award
+- [2011 Open Source SW Copyright Recognition Enhancement Paper Award](https://www.oss.kr/event/show/c9633a51-dcb7-47cd-8ea9-76f182ad5ea8) – “The study on incorporation of GPLv2.0 software with proprietary software” 2nd place winner.
+
+
+---
+
+## Certifications 
 
 - AWS Certified DevOps Engineer – Professional (DOP)
 - AWS Certified Solutions Architect – Professional (SAP)
@@ -115,6 +128,7 @@ Education, Inc.)
 - AWS Certified SysOps Administrator – Associate (SOA)
 - AWS Certified Developer – Associate (DVA)
 - AWS Certified Cloud Practitioner (CLF)
+- SPICE Provisional Assessor (ISO 15504) (2011)
 - CISA (2008)
 - Engineer Information Processing (2001)
 
