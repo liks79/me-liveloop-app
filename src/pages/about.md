@@ -3,35 +3,125 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## Sung Shik Jou
 
-![Astro Paper](public/astropaper-og.jpg)
+**Senior Engineer / Platform Engineering / DevOps / Cloud (AWS)**  
+Email: [`liks79@gmail.com`](mailto:liks79@gmail.com)  
+LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+---
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Professional Summary
 
-## Features
+Senior Engineer and IT leader with **19+ years** of experience designing, developing, and operating robust and scalable platforms. Strong in **AWS cloud infrastructure, DevOps practices, automation**, and cross-functional leadership. Experienced across package software development, SI/SM, and R&D environments, and passionate about continuous learning and applying new technologies.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+---
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Core Skills
 
-and so much more.
+- **Cloud (AWS)**: cloud-native architecture, operations, modernization
+- **IaC**: Terraform, CloudFormation, AWS CDK
+- **Containers**: Kubernetes (EKS toolchain), Amazon ECS
+- **Languages**: Python, Java, JavaScript
+- **Data / BI**: Google Looker Studio, Tableau
+- **GenAI**: LangChain + Streamlit, PandasAI (RAG/PoC)
+- **NoSQL**: Redis, DynamoDB, Couchbase
+- **Frameworks**: Flask/SQLAlchemy, Spring, Apache UIMA
+- **Workflow / Integration**: Apache Airflow, AWS Step Functions
+- **Middleware**: Tomcat/JBoss, RabbitMQ, Elasticsearch/Solr
 
-## Show your support
+---
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## Speaking, Articles, Books (selected)
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+- [AWS TechBlog (2023.10): Architecture Modernization with Adopting AWS ControlTower](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
+- [AWS Korea Edutech Community Forum 2023.06 Speaker (Tech Track)](https://pages.awscloud.com/edutech-community-forum-2023.html)
+- [AWS re:Invent 2021 re:Cap: New Service and Features in Architecture Modernization](https://www.youtube.com/watch?v=5m6AXCkfnZ0)
+- AWS re:Invent 2021 Builder’s Fair: Language tutor using AWS AI/ML (AIM213-R1/R2)
+- [Accelerating DevSecOps Adoption with Test-Driven Security (테스트 주도 보안으로 DevSecOps 도입 가속화 하기)](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
+- [Security Modernization with DevSecOps](https://pages.awscloud.com/aws-builders-industry-devsecops-reg.html)
+- [Developing Evolutionary Architecture With AWS Lambda](https://aws.amazon.com/ko/blogs/korea/developing-evolutionary-architecture-with-aws-lambda/)
+- [Adopting a DevSecOps Pipeline with TDS](https://www.youtube.com/watch?v=1nR7MzgAW-0&t=2505s)
+- AWS BigData Bootcamp at SeouSummit 2017 - Speaker
+- AWS - AWsome Day 2016, 2017, 2018 Speaker
+- 2014 Talk IT! Book Forum, Python and Flask (WisePartner, 2014.5)
+- 2014 Facebook [Flask User Group](https://www.facebook.com/groups/flask/) Seminar Speaker
+- [2012 OpenTechnet Seminar - OSS license management for the enterprise](https://www.oss.kr/event/show/c2239371-eec8-4912-93b6-d59e71397014)
+- [2011 Open Source SW License Insight Conference, KOREA COPYRIGHT COMMISSION - Gray zone of GPL](https://youtu.be/NfEY2vHgoFA?si=AhFZc7yGlXFTeL7L&t=4212)
+- [Securing DevOps](https://www.yes24.com/Product/Goods/73829852) (Translation, 2019, Wikibooks Inc.)
+- [Serverless Architecture on AWS](https://www.yes24.com/Product/Goods/57838923) (translation, 2018, Wikibooks Inc.)
+- [Python Web Programming using Flask](https://www.yes24.com/Product/Goods/11934710) (coauthorship, 2014, 2016, Wikibooks Inc.)
+- [DevOps Troubleshooting, Linux Server Best Practice](https://www.yes24.com/24/Category/Series/001?SeriesNumber=161391) (translation, coauthorship, 2013 Wikibooks, 2013, and Pearson
+Education, Inc.)
+- [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
 
-Kyay zuu! 🙏🏼
+
+
+## Experience
+
+### Hyundai AutoEver — Team Lead, SDx Platform Development Team (2025.06 ~)
+
+- Leading the development team of an SDx (Software-Defined Everything) platform powering Hyundai Motor Company’s next-generation smart factory environment.
+- Driving innovation in software-defined infrastructure for factory automation to enable scalable and efficient automobile manufacturing.
+
+### Coupang — Software Development Manager, Global Operation Technology (2025.01 – 2025.06)
+
+- Software Development Manager of the WMS Outbound development team, responsible for outbound warehouse operations.
+- Led a DevOps team of 15 engineers operating a Tier-1 AWS system handling **6–10 million outbound transactions daily**.
+
+### DANBI EDUCATION — Director, Platform Engineering Division (2022.03 – 2024.12)
+
+- Led an organization of 14 across DevOps, Security, QA, and Service Operations.
+- Drove architecture modernization and AWS infrastructure redesign, including governance with AWS Control Tower.
+- Migrated applications from EC2-based environments to Kubernetes orchestration.
+- Strengthened security (network firewall adoption, temporary credentials with traceability, event log collection/analysis, policies and guidance).
+- Adopted test automation (Appium/Selenium) and improved service operations with JIRA Service Management.
+- GenAI PoC: built an internal Q/A and reporting RAG system using Streamlit, LangChain, and PandasAI (Azure OpenAI).
+
+### Amazon Web Services — Sr. Solutions Architect / Sr. Technical Trainer (2016.06 – 2022.03)
+
+- Engaged digital-native and enterprise customers: architecture review, modernization (DevSecOps/DDD/MSA), troubleshooting, and new service adoption.
+- Led initiatives such as DDD-enabled MSA and DevSecOps modernization; contributed to Chaos Engineering workshops.
+- Delivered training/workshops to 2,500+ customers; co-authored the official AWS course “Moving to AWS Serverless”.
+- Public speaking: re:Invent (re:Cap / Builder’s Fair), AWSome Day / Seoul Summit, and more.
+
+### LG CNS — Software Architect / Architecture Consulting Specialist / Developer (2008.11 – 2016.06)
+
+- OSS-based architecture consulting, PoCs, and technical support (Redis, Couchbase, RabbitMQ, Solr/Elasticsearch, Tomcat/JBoss, etc.).
+- Architecture improvements and development for global platform components (session store, FTS, etc.).
+- Developed internal training courses (Practical Redis, OSS License Guide) and built an OSS governance system.
+
+### TINIATEK — R&D Engineer / SW Developer (2004.04 – 2008.10)
+
+- Developed, ported, and maintained in-house middleware (WebTide) and delivered multiple SI projects.
+
+---
+
+## Education
+
+- **M.S. in Engineering**, Ajou University Graduate School (2007.03 – 2009.02)
+- **B.S. in Computer Science**, Ajou University (1998.02 – 2003.02)
+
+---
+
+## Certifications (selected)
+
+- AWS Certified DevOps Engineer – Professional (DOP)
+- AWS Certified Solutions Architect – Professional (SAP)
+- AWS Certified Security – Specialty (SCS)
+- AWS Certified Big Data – Specialty (BDS)
+- AWS Certified Solutions Architect – Associate (SAA)
+- AWS Certified SysOps Administrator – Associate (SOA)
+- AWS Certified Developer – Associate (DVA)
+- AWS Certified Cloud Practitioner (CLF)
+- CISA (2008)
+- Engineer Information Processing (2001)
+
+
+---
+
+## Contact
+
+- Email: [`liks79@gmail.com`](mailto:liks79@gmail.com)
+- LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
