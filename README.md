@@ -47,7 +47,7 @@ npm run preview
 
 ---
 
-## 🗂️ 프로젝트 구조(핵심) / Project structure (core)
+## 🗂️ 프로젝트 구조 / Project structure (core)
 
 ```bash
 /
