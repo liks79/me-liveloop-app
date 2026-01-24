@@ -11,7 +11,7 @@ title: "About"
     style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);"
   />
   <div style="min-width: 240px; flex: 1;">
-    <strong>Backend Engineering Manager, Director / Senior Engineer / Platform Engineering / DevOps / DevSecOps / Cloud Expert</strong><br />
+    <strong>Software Engineering Manager, Director / Senior Engineer / Platform Engineering / DevOps / DevSecOps / Cloud Expert</strong><br />
     Email: <a href="mailto:liks79@gmail.com">liks79@gmail.com</a><br />
     LinkedIn: <a href="https://www.linkedin.com/in/sungshik/" target="_blank" rel="noopener">linkedin.com/in/sungshik</a>
   </div>
