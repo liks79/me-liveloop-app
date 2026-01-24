@@ -13,7 +13,11 @@ LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
 
 ## Professional Summary
 
-Senior Engineer and IT leader with **20+ years** of experience designing, developing, and operating robust and scalable platforms. Strong in **AWS cloud infrastructure, DevOps practices, automation**, and cross-functional leadership. Experienced across package software development, SI/SM, and R&D environments, and passionate about continuous learning and applying new technologies.
+Highly skilled Senior Engineer and IT Leader with over 20 years of experience in designing, developing, and managing robust, scalable platforms (AWS, Kubernetes, Terraform and more). Proficient in cloud infrastructure, DevOps practices, and diverse programming languages, with a proven track record of driving efficiency and automation in large-scale environments. Extensive background across **R&D, SI/SM, and packaged software development.**
+
+Adept at leading cross-functional teams and mentoring junior engineers to align with organizational goals. During my tenure at **AWS**, I specialized in guiding enterprise and digital native customers through cloud transformation by delivering architectural best practices. **Expertise in diagnosing complex technical challenges and proposing strategic solutions** that drive business growth and operational maturity. Passionate about leveraging emerging technologies to solve customer problems and eager to take on new, high-impact challenges.
+
+
 
 
 ---
@@ -36,6 +40,8 @@ Senior Engineer and IT leader with **20+ years** of experience designing, develo
 - [AWS TechBlog (2023.10): Architecture Modernization with Adopting AWS ControlTower](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
 - [Accelerating DevSecOps Adoption with Test-Driven Security (테스트 주도 보안으로 DevSecOps 도입 가속화 하기)](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
 - [Developing Evolutionary Architecture With AWS Lambda](https://aws.amazon.com/ko/blogs/korea/developing-evolutionary-architecture-with-aws-lambda/)
+- [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
+
 
 ## Speaking
 - [AWS Korea Edutech Community Forum 2023.06 Speaker (Tech Track)](https://pages.awscloud.com/edutech-community-forum-2023.html)
@@ -54,7 +60,6 @@ Senior Engineer and IT leader with **20+ years** of experience designing, develo
 - [Serverless Architecture on AWS](https://www.yes24.com/Product/Goods/57838923) (translation, 2018, Wikibooks Inc.)
 - [Python Web Programming using Flask](https://www.yes24.com/Product/Goods/11934710) (coauthorship, 2014, 2016, Wikibooks Inc.)
 - [DevOps Troubleshooting, Linux Server Best Practice](https://www.yes24.com/24/Category/Series/001?SeriesNumber=161391) (translation, coauthorship, 2013 Wikibooks, 2013, and Pearson Education, Inc.)
-- [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
 - [2011 Open Source SW License Insight Conference, KOREA COPYRIGHT COMMISSION - Gray zone of GPL](https://youtu.be/NfEY2vHgoFA?si=AhFZc7yGlXFTeL7L&t=4212)
 
 
@@ -75,8 +80,8 @@ Senior Engineer and IT leader with **20+ years** of experience designing, develo
 ### DANBI EDUCATION — Director, Platform Engineering Division (2022.03 – 2024.12)
 
 - Led an organization of 14 across DevOps, Security, QA, and Service Operations.
-- Drove architecture modernization and AWS infrastructure redesign, including governance with AWS Control Tower.
-- Migrated applications from EC2-based environments to Kubernetes orchestration.
+- Led architecture modernization and AWS infrastructure redesign, streamlining organizational governance via AWS Control Tower..
+- Led a application migration from EC2-based environments to Kubernetes orchestration environments.
 - Strengthened security (network firewall adoption, temporary credentials with traceability, event log collection/analysis, policies and guidance).
 - Adopted test automation (Appium/Selenium) and improved service operations with JIRA Service Management.
 - Design and operate GenAI Product: built an internal Q/A and reporting system using RAG with Streamlit, LangChain, and PandasAI. Involved initial design of CATS English which based on Azure OpenAI system.
