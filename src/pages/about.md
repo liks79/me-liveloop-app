@@ -4,10 +4,18 @@ title: "About"
 ---
 
 ## Sung Shik Jou
-
-**Backend Engineering Manager, Director / Senior Engineer / Platform Engineering / DevOps / DevSecOps / Cloud Expert**  
-Email: [`liks79@gmail.com`](mailto:liks79@gmail.com)  
-LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin: 8px 0 12px;">
+  <img
+    src="/assets/about/profile-linkedin.jpg"
+    alt="Sung Shik Jou profile"
+    style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);"
+  />
+  <div style="min-width: 240px; flex: 1;">
+    <strong>Backend Engineering Manager, Director / Senior Engineer / Platform Engineering / DevOps / DevSecOps / Cloud Expert</strong><br />
+    Email: <a href="mailto:liks79@gmail.com">liks79@gmail.com</a><br />
+    LinkedIn: <a href="https://www.linkedin.com/in/sungshik/" target="_blank" rel="noopener">linkedin.com/in/sungshik</a>
+  </div>
+</div>
 
 ---
 
@@ -56,6 +64,15 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - [2012 OpenTechnet Seminar - OSS license management for the enterprise](https://www.oss.kr/event/show/c2239371-eec8-4912-93b6-d59e71397014)
 
 ## Books
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 8px 0 12px;">
+  <img src="/assets/books/securing_devops.jpg" alt="Securing DevOps" style="width: 120px; height: 160px; object-fit: cover; border-radius: 8px; box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);" />
+  <img src="/assets/books/serverless_arc.jpg" alt="Serverless Architecture on AWS" style="width: 120px; height: 160px; object-fit: cover; border-radius: 8px; box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);" />
+  <img src="/assets/books/flask_python_1st.jpg" alt="Python Web Programming using Flask (1st)" style="width: 120px; height: 160px; object-fit: cover; border-radius: 8px; box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);" />
+  <img src="/assets/books/flask_python_2nd.jpg" alt="Python Web Programming using Flask (2nd)" style="width: 120px; height: 160px; object-fit: cover; border-radius: 8px; box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);" />
+  <img src="/assets/books/devops_linux_trouble_shooting.jpg" alt="DevOps Troubleshooting, Linux Server Best Practice" style="width: 120px; height: 160px; object-fit: cover; border-radius: 8px; box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);" />
+</div>
+
 - [Securing DevOps](https://www.yes24.com/Product/Goods/73829852) (Translation, 2019, Wikibooks Inc.)
 - [Serverless Architecture on AWS](https://www.yes24.com/Product/Goods/57838923) (translation, 2018, Wikibooks Inc.)
 - [Python Web Programming using Flask](https://www.yes24.com/Product/Goods/11934710) (coauthorship, 2014, 2016, Wikibooks Inc.)
@@ -67,7 +84,7 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 
 ### Hyundai AutoEver — Head of Team, SDx Platform Development Team (2025.06 ~)
 
-- Leading the development team of an SDx (Software-Defined Everything) platform powering Hyundai Motor Company’s next-generation smart factory environment.
+- Leading the development team of an SDx (Software-Defined Everything) platform powering Hyundai Motor Group's next-generation smart factory environment.
 - Driving innovation in automative industry infrastructure for factory automation to enable scalable and efficient automobile manufacturing.
 - Engaged in the Hyundai Motor Group project to build a next-generation battery facility — [MAAC (Mobility Alphaline Ansung Center)](https://www.hyundaimotorgroup.com/ko/news/CONT0000000000194659)
 
