@@ -5,7 +5,7 @@ title: "About"
 
 ## Sung Shik Jou
 
-**Senior Engineer / Platform Engineering / DevOps / Cloud (AWS)**  
+**Senior Engineering Manager, Director / Senior Engineer / Platform Engineering / DevOps / Cloud Expert**  
 Email: [`liks79@gmail.com`](mailto:liks79@gmail.com)  
 LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
 
@@ -13,22 +13,7 @@ LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
 
 ## Professional Summary
 
-Senior Engineer and IT leader with **19+ years** of experience designing, developing, and operating robust and scalable platforms. Strong in **AWS cloud infrastructure, DevOps practices, automation**, and cross-functional leadership. Experienced across package software development, SI/SM, and R&D environments, and passionate about continuous learning and applying new technologies.
-
----
-
-## Core Skills
-
-- **Cloud (AWS)**: cloud-native architecture, operations, modernization
-- **IaC**: Terraform, CloudFormation, AWS CDK
-- **Containers**: Kubernetes (EKS toolchain), Amazon ECS
-- **Languages**: Python, Java, JavaScript
-- **Data / BI**: Google Looker Studio, Tableau
-- **GenAI**: LangChain + Streamlit, PandasAI (RAG/PoC)
-- **NoSQL**: Redis, DynamoDB, Couchbase
-- **Frameworks**: Flask/SQLAlchemy, Spring, Apache UIMA
-- **Workflow / Integration**: Apache Airflow, AWS Step Functions
-- **Middleware**: Tomcat/JBoss, RabbitMQ, Elasticsearch/Solr
+Senior Engineer and IT leader with **20+ years** of experience designing, developing, and operating robust and scalable platforms. Strong in **AWS cloud infrastructure, DevOps practices, automation**, and cross-functional leadership. Experienced across package software development, SI/SM, and R&D environments, and passionate about continuous learning and applying new technologies.
 
 ---
 
@@ -57,7 +42,6 @@ Education, Inc.)
 
 
 
-
 ## Experience
 
 ### Hyundai AutoEver — Team Lead, SDx Platform Development Team (2025.06 ~)
@@ -67,8 +51,8 @@ Education, Inc.)
 
 ### Coupang — Software Development Manager, Global Operation Technology (2025.01 – 2025.06)
 
-- Software Development Manager of the WMS Outbound development team, responsible for outbound warehouse operations.
-- Led a DevOps team of 15 engineers operating a Tier-1 AWS system handling **6–10 million outbound transactions daily**.
+- Software Development Manager of the WMS Outbound DevOps team, responsible for outbound warehouse operations.
+- Operating a Tier-1 business system which served in AWS and it handles near 10M logistics Peak.
 
 ### DANBI EDUCATION — Director, Platform Engineering Division (2022.03 – 2024.12)
 
@@ -83,7 +67,7 @@ Education, Inc.)
 
 - Engaged digital-native and enterprise customers: architecture review, modernization (DevSecOps/DDD/MSA), troubleshooting, and new service adoption.
 - Led initiatives such as DDD-enabled MSA and DevSecOps modernization; contributed to Chaos Engineering workshops.
-- Delivered training/workshops to 2,500+ customers; co-authored the official AWS course “Moving to AWS Serverless”.
+- Delivered training/workshops to 2,500+ customers; authored the official AWS course “Moving to AWS Serverless”.(Regarding Architecting, DevOps, BigData, System Operation, Developig, Migration and more.)
 - Public speaking: re:Invent (re:Cap / Builder’s Fair), AWSome Day / Seoul Summit, and more.
 
 ### LG CNS — Software Architect / Architecture Consulting Specialist / Developer (2008.11 – 2016.06)
