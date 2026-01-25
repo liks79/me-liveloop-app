@@ -48,7 +48,6 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - [AWS TechBlog (2023.10): Architecture Modernization with Adopting AWS ControlTower](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
 - [Accelerating DevSecOps Adoption with Test-Driven Security (테스트 주도 보안으로 DevSecOps 도입 가속화 하기)](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
 - [Developing Evolutionary Architecture With AWS Lambda](https://aws.amazon.com/ko/blogs/korea/developing-evolutionary-architecture-with-aws-lambda/)
-- [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
 
 
 ## Public Speaking
@@ -78,6 +77,7 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - [Python Web Programming using Flask](https://www.yes24.com/Product/Goods/11934710) (coauthorship, 2014, 2016, Wikibooks Inc.)
 - [DevOps Troubleshooting, Linux Server Best Practice](https://www.yes24.com/24/Category/Series/001?SeriesNumber=161391) (translation, coauthorship, 2013 Wikibooks, 2013, and Pearson Education, Inc.)
 - [2011 Open Source SW License Insight Conference, KOREA COPYRIGHT COMMISSION - Gray zone of GPL](https://youtu.be/NfEY2vHgoFA?si=AhFZc7yGlXFTeL7L&t=4212)
+- [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
 
 
 ## Experience
