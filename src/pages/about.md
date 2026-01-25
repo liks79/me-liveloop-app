@@ -31,11 +31,11 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 ---
 
 ## Awards
-- 2021 Thought Leadership Winner (Year-End) (Korea Solutions Architect Award winners)
-- 2021 APJC TechSummit DNB/ISV/Startup Track Best Speaker Award.
-- 2021 Thought Leadership Winner (Q3) (Korea Solutions Architect Award winners)
-- 2021 Think Big Award (Q2) (Korea Solutions Architect Award winners)
-- 2020 AWS KOREA AWARD (2020 Kick-off): Training & Certification - Champion of the year
+- 2021 Thought Leadership Winner (Year-End) (AWS Korea Solutions Architect Award winners)
+- 2021 AWS APJC TechSummit DNB/ISV/Startup Track Best Speaker Award.
+- 2021 Thought Leadership Winner (Q3) (AWS Korea Solutions Architect Award winners)
+- 2021 Think Big Award (Q2) (AWS Korea Solutions Architect Award winners)
+- 2020 AWS KOREA 2020 Kick-off AWARD: Training & Certification - Champion of the year.
 - 2019 T&C APAC: Training & Certification - Person of Q3
 - 2018 AWS Korea Seoul Summit – Best CSAT Award (AWSome Day)
 - 2012 LG CNS Best Knowledge share award
@@ -51,7 +51,7 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
 
 
-## Speaking
+## Public Speaking
 - [AWS Korea Edutech Community Forum 2023.06 Speaker (Tech Track)](https://pages.awscloud.com/edutech-community-forum-2023.html)
 - [AWS re:Invent 2021 re:Cap: New Service and Features in Architecture Modernization](https://www.youtube.com/watch?v=5m6AXCkfnZ0)
 - AWS re:Invent 2021 Builder’s Fair: Language tutor using AWS AI/ML (AIM213-R1/R2)
