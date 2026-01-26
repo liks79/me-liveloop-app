@@ -44,23 +44,20 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 
 ---
 
-## Articles
-- [AWS TechBlog (2023.10): Architecture Modernization with Adopting AWS ControlTower](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
-- [Accelerating DevSecOps Adoption with Test-Driven Security (테스트 주도 보안으로 DevSecOps 도입 가속화 하기)](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
-- [Developing Evolutionary Architecture With AWS Lambda](https://aws.amazon.com/ko/blogs/korea/developing-evolutionary-architecture-with-aws-lambda/)
-
-
-## Public Speaking
-- [AWS Korea Edutech Community Forum 2023.06 Speaker (Tech Track)](https://pages.awscloud.com/edutech-community-forum-2023.html)
-- [AWS re:Invent 2021 re:Cap: New Service and Features in Architecture Modernization](https://www.youtube.com/watch?v=5m6AXCkfnZ0)
-- AWS re:Invent 2021 Builder’s Fair: Language tutor using AWS AI/ML (AIM213-R1/R2)
-- [Security Modernization with DevSecOps](https://pages.awscloud.com/aws-builders-industry-devsecops-reg.html)
-- [Adopting a DevSecOps Pipeline with TDS](https://www.youtube.com/watch?v=1nR7MzgAW-0&t=2505s)
-- AWS BigData Bootcamp at SeoulSummit 2017 - Speaker
-- AWS - AWsome Day 2016, 2017, 2018 Speaker
-- 2014 Talk IT! Book Forum, Python and Flask (WisePartner, 2014.5)
-- 2014 Facebook [Flask User Group](https://www.facebook.com/groups/flask/) Seminar Speaker
-- [2012 OpenTechnet Seminar - OSS license management for the enterprise](https://www.oss.kr/event/show/c2239371-eec8-4912-93b6-d59e71397014)
+## Public Speaking & Articles
+- 📝 [AWS TechBlog (2023.10): Architecture Modernization with Adopting AWS ControlTower](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
+- 🗣️ [AWS Korea Edutech Community Forum 2023.06 Speaker (Tech Track)](https://pages.awscloud.com/edutech-community-forum-2023.html)
+- 🗣️ [AWS re:Invent 2021 re:Cap: New Service and Features in Architecture Modernization](https://www.youtube.com/watch?v=5m6AXCkfnZ0)
+- 🗣️ AWS re:Invent 2021 Builder’s Fair: Language tutor using AWS AI/ML (AIM213-R1/R2)
+- 📝 [Accelerating DevSecOps Adoption with Test-Driven Security (테스트 주도 보안으로 DevSecOps 도입 가속화 하기)](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
+- 📝 [Developing Evolutionary Architecture With AWS Lambda](https://aws.amazon.com/ko/blogs/korea/developing-evolutionary-architecture-with-aws-lambda/)
+- 🗣️ [Security Modernization with DevSecOps](https://pages.awscloud.com/aws-builders-industry-devsecops-reg.html)
+- 🗣️ [Adopting a DevSecOps Pipeline with TDS](https://www.youtube.com/watch?v=1nR7MzgAW-0&t=2505s)
+- 🗣️ AWS BigData Bootcamp at SeoulSummit 2017 - Speaker
+- 🗣️ AWS - AWsome Day 2016, 2017, 2018 Speaker
+- 🗣️ 2014 Talk IT! Book Forum, Python and Flask (WisePartner, 2014.5)
+- 🗣️ 2014 Facebook [Flask User Group](https://www.facebook.com/groups/flask/) Seminar Speaker
+- 🗣️ [2012 OpenTechnet Seminar - OSS license management for the enterprise](https://www.oss.kr/event/show/c2239371-eec8-4912-93b6-d59e71397014)
 
 ## Books
 
