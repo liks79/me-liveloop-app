@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-## Sung Shik Jou
+## Sungshik Jou
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin: 8px 0 12px;">
   <img
     src="/assets/about/profile-linkedin.jpg"
