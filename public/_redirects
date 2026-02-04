@@ -1,0 +1,4 @@
+# Redirect legacy /en paths to root (no language prefix)
+/en    /    301
+/en/   /    301
+/en/*  /:splat  301
