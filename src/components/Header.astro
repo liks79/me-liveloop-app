@@ -5,6 +5,7 @@ import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconArchive from "@/assets/icons/IconArchive.svg";
 import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
 import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 import LinkButton from "./LinkButton.astro";
 import { SITE } from "@/config";
 
@@ -136,6 +137,18 @@ const isActive = (path: string) => {
             </li>
           )
         }
+        <li class="col-span-1 flex items-center justify-center">
+          <a
+            target="_blank"
+            href="/rss.xml"
+            class="focus-outline flex p-3 sm:p-1 hover:[&>svg]:stroke-accent"
+            aria-label="RSS feed"
+            title="RSS Feed"
+          >
+            <IconRss class="scale-125 stroke-3 rtl:-rotate-90" width={20} height={20} />
+            <span class="sr-only">RSS Feed</span>
+          </a>
+        </li>
       </ul>
     </nav>
   </div>
