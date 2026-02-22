@@ -1,7 +1,87 @@
 ---
 commitizen:
-  name: cz_conventional_commits
+  name: cz_customize
+  customize:
+    message_template: "{{change_type}}{{scope}}: {{message}}"
+    example: "feat(blog): add dark mode toggle"
+    schema: "<type>(<scope>): <subject>"
+    schema_pattern: "(feat|fix|docs|style|refactor|chore|perf|ci|build)(\\(.+\\))?: .{1,100}"
+
+    questions:
+      - type: list
+        name: change_type
+        message: "Select the type of change:"
+        choices:
+          - value: "feat"
+            name: "feat:     ✨ A new feature"
+          - value: "fix"
+            name: "fix:      🐛 A bug fix"
+          - value: "docs"
+            name: "docs:     📝 Documentation only changes"
+          - value: "refactor"
+            name: "refactor: ♻️  Code restructuring (no feat/fix)"
+          - value: "style"
+            name: "style:    💄 Formatting, missing semicolons, etc."
+          - value: "chore"
+            name: "chore:    🔧 Build process or tooling changes"
+          - value: "perf"
+            name: "perf:     ⚡ Performance improvements"
+          - value: "ci"
+            name: "ci:       👷 CI/CD configuration changes"
+          - value: "build"
+            name: "build:    📦 Build system or dependency updates"
+
+      - type: list
+        name: scope
+        message: "Select the scope (area of change):"
+        choices:
+          - value: ""
+            name: "none:     No specific scope"
+          - value: "(blog)"
+            name: "blog:     Blog posts or content"
+          - value: "(ui)"
+            name: "ui:       UI components or layouts"
+          - value: "(config)"
+            name: "config:   Site configuration (src/config.ts)"
+          - value: "(seo)"
+            name: "seo:      SEO, OG images, meta tags"
+          - value: "(search)"
+            name: "search:   Pagefind search integration"
+          - value: "(styles)"
+            name: "styles:   Tailwind / CSS changes"
+          - value: "(deps)"
+            name: "deps:     Dependency updates"
+          - value: "(ci)"
+            name: "ci:       GitHub Actions / Docker"
+
+      - type: input
+        name: message
+        message: "Short description (imperative mood, lowercase, no period):"
+        validate: >
+          lambda msg: len(msg) > 0 or "Message cannot be empty"
+
+  version: 1.0.0
+  version_files:
+    - package.json:version
   tag_format: v$version
   update_changelog_on_bump: true
-  version_provider: npm
-  version_scheme: semver
+  changelog_file: CHANGELOG.md
+  changelog_incremental: true
+
+
+# ---
+
+# ## 실제 사용 예시
+
+# 위 설정으로 `cz commit` 실행 시 아래처럼 대화형으로 커밋 메시지가 만들어집니다.
+# ```
+# ? Select the type of change:
+#   > feat:     ✨ A new feature
+
+# ? Select the scope:
+#   > (blog):   Blog posts or content
+
+# ? Short description:
+#   > add series navigation to post layout
+
+# → 최종 커밋 메시지: feat(blog): add series navigation to post layout
