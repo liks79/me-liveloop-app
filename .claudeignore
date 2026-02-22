@@ -1,0 +1,26 @@
+# Build outputs
+dist/
+.astro/
+
+# Dependencies
+node_modules/
+
+# Generated search index (binary files)
+public/pagefind/
+public/pagefind.json
+
+# Lock files (large, rarely useful for context)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Binary image assets
+public/assets/
+public/astropaper-og.jpg
+src/assets/images/
+
+# Cache and logs
+.cache/
+.eslintcache
+*.log
+logs/
