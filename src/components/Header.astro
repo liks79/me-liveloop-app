@@ -47,7 +47,7 @@ const isActive = (path: string) => {
       href="/"
       class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
     >
-    🌱 {SITE.title}
+      🌱 {SITE.title}
     </a>
     <nav
       id="nav-menu"
@@ -145,7 +145,11 @@ const isActive = (path: string) => {
             aria-label="RSS feed"
             title="RSS Feed"
           >
-            <IconRss class="scale-125 stroke-3 rtl:-rotate-90" width={20} height={20} />
+            <IconRss
+              class="scale-125 stroke-3 rtl:-rotate-90"
+              width={20}
+              height={20}
+            />
             <span class="sr-only">RSS Feed</span>
           </a>
         </li>

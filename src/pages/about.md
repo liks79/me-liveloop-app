@@ -4,6 +4,7 @@ title: "About"
 ---
 
 ## Sungshik Jou
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin: 8px 0 12px;">
   <img
     src="/assets/about/profile-linkedin.jpg"
@@ -25,12 +26,10 @@ Highly skilled Senior Engineer and IT Leader with over 20 years of experience in
 
 Adept at leading cross-functional teams and mentoring junior engineers to align with organizational goals. During my tenure at **AWS**, I specialized in guiding enterprise and digital native customers through cloud transformation by delivering architectural best practices. **Expertise in diagnosing complex technical challenges and proposing strategic solutions** that drive business growth and operational maturity. Passionate about leveraging emerging technologies to solve customer problems and eager to take on new, high-impact challenges.
 
-
-
-
 ---
 
 ## Awards
+
 - 2021 Thought Leadership Winner (Year-End) (AWS Korea Solutions Architect Award winners)
 - 2021 AWS APJC TechSummit DNB/ISV/Startup Track Best Speaker Award.
 - 2021 Thought Leadership Winner (Q3) (AWS Korea Solutions Architect Award winners)
@@ -41,10 +40,10 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - 2012 LG CNS Best Knowledge share award
 - [2011 Open Source SW Copyright Recognition Enhancement Paper Award](https://www.oss.kr/event/show/c9633a51-dcb7-47cd-8ea9-76f182ad5ea8) – “The study on incorporation of GPLv2.0 software with proprietary software” 2nd place winner.
 
-
 ---
 
 ## Public Speaking & Articles
+
 - 📝 [AWS TechBlog (2023.10): Architecture Modernization with Adopting AWS ControlTower](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
 - 🗣️ [AWS Korea Edutech Community Forum 2023.06 Speaker (Tech Track)](https://pages.awscloud.com/edutech-community-forum-2023.html)
 - 🗣️ [AWS re:Invent 2021 re:Cap: New Service and Features in Architecture Modernization](https://www.youtube.com/watch?v=5m6AXCkfnZ0)
@@ -75,7 +74,6 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - [DevOps Troubleshooting, Linux Server Best Practice](https://www.yes24.com/24/Category/Series/001?SeriesNumber=161391) (translation, coauthorship, 2013 Wikibooks, 2013, and Pearson Education, Inc.)
 - [2011 Open Source SW License Insight Conference, KOREA COPYRIGHT COMMISSION - Gray zone of GPL](https://youtu.be/NfEY2vHgoFA?si=AhFZc7yGlXFTeL7L&t=4212)
 - [Python framework Flask Official Documentation](http://flask-docs-kr.readthedocs.org/) Translation
-
 
 ## Experience
 
@@ -124,10 +122,9 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - **M.S. in Engineering**, Ajou University Graduate School (2007.03 – 2009.02)
 - **B.S. in Computer Science**, Ajou University (1998.02 – 2003.02)
 
-
 ---
 
-## Certifications 
+## Certifications
 
 - AWS Certified DevOps Engineer – Professional (DOP)
 - AWS Certified Solutions Architect – Professional (SAP)
@@ -140,7 +137,6 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 - SPICE Provisional Assessor (ISO 15504) (2011)
 - CISA (2008)
 - Engineer Information Processing (2001)
-
 
 ---
 
