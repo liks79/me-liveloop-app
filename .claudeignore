@@ -14,13 +14,26 @@ package-lock.json
 pnpm-lock.yaml
 yarn.lock
 
-# Binary image assets
+# Binary and static assets
 public/assets/
 public/astropaper-og.jpg
+public/favicon.svg
+public/toggle-theme.js
 src/assets/images/
+src/assets/icons/
 
-# Cache and logs
+# Theme boilerplate (not project-specific)
+CHANGELOG.md
+LICENSE
+AstroPaper-lighthouse-score.svg
+remark-collapse.d.ts
+
+# Cache, logs, build artifacts
 .cache/
 .eslintcache
 *.log
 logs/
+tsconfig.tsbuildinfo
+
+# Local blog research workspace (gitignored, local only)
+research/
