@@ -36,4 +36,4 @@ logs/
 tsconfig.tsbuildinfo
 
 # Local blog research workspace (gitignored, local only)
-research/
+#research/
