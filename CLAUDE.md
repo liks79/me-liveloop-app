@@ -64,10 +64,26 @@ Conventional commits enforced via `cz.yaml`. Use prefixes like `feat:`, `fix:`, 
 - Always report changes to the user and get approval before committing
 - When creating a PR, remind the user to assign a reviewer
 
+## Blog Authoring Workflow
+
+Slash commands in `.claude/commands/` cover the full authoring loop:
+
+| Command | What it does |
+|---------|-------------|
+| `/blog-research <topic>` | Web research → `research/<slug>/research.md` |
+| `/blog-publish <slug>` | Research file → `src/data/blog/<slug>.md` draft |
+| `/blog-preview [--dev\|--prod]` | Start local preview (`--dev` includes drafts; `--prod` builds first) |
+| `/blog-pr <slug>` | Create branch, commit, open GitHub PR |
+| `/image-gen <prompt> [--slug <slug>]` | Generate image via Gemini/Imagen → `research/<slug>/images/` |
+| `/new-post <title>` | Create an empty post file directly |
+
+`research/` is gitignored — it holds research notes and generated images before they are committed. See `research/GUIDE.md` for full workflow details.
+
 ## Notes
 
 - `no-console` is an ESLint error — avoid `console.log` in source files.
 - Draft posts (`draft: true`) are excluded from production builds but visible in dev.
 - Dynamic OG images are controlled by `SITE.dynamicOgImage` in `src/config.ts`.
 - No posts exist in the `main` branch; all posts are preserved in the `post-backup` branch.
+- Hosted on Cloudflare Pages; every PR gets an automatic preview URL from Cloudflare.
 
