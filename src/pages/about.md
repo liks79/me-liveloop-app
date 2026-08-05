@@ -13,7 +13,6 @@ title: "About"
   />
   <div style="min-width: 240px; flex: 1;">
     <strong>Software Engineering Manager, Director / Senior Engineer / Platform Engineering / DevOps / DevSecOps / Cloud Expert</strong><br />
-    Email: <a href="mailto:liks79@gmail.com">liks79@gmail.com</a><br />
     LinkedIn: <a href="https://www.linkedin.com/in/sungshik/" target="_blank" rel="noopener">linkedin.com/in/sungshik</a>
   </div>
 </div>
@@ -142,5 +141,4 @@ Adept at leading cross-functional teams and mentoring junior engineers to align 
 
 ## Contact
 
-- Email: [`liks79@gmail.com`](mailto:liks79@gmail.com)
 - LinkedIn: [`linkedin.com/in/sungshik`](https://www.linkedin.com/in/sungshik/)
