@@ -1,4 +1,4 @@
-# me-liveloop-app
+# me-liveloop-app (draft)
 
 개인 **프로필/이력서** 및 글(포스트)을 관리하기 위한 블로그입니다. [Astro](https://astro.build/) 기반이며, 디자인/구조는 [AstroPaper](https://github.com/satnaing/astro-paper) 테마를 기반으로 커스터마이징합니다.
 
